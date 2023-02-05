@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987604248954",
+    "project_id": "my-notification-program",
+    "storage_bucket": "my-notification-program.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987604248954:android:b8beda6a003edef9e68ec3",
+        "android_client_info": {
+          "package_name": "com.starnet.myfcmnotificationprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987604248954-p1koj5515rtkjhet8b71flqtqqbvrkja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starnet.myfcmnotificationprogram",
+            "certificate_hash": "bef9cbeeed69a86aef33fab74fbced9c4038c08f"
+          }
+        },
+        {
+          "client_id": "987604248954-g838nikiuu9e0h5flh30lqurak8teib1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu5JbL_BjeJMQBsdrbAJsJux44Na4MCdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987604248954-g838nikiuu9e0h5flh30lqurak8teib1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
